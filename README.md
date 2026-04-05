@@ -24,20 +24,6 @@ A premium, high-performance financial analytics dashboard designed for modern fi
 - **Animations**: [Motion](https://motion.dev/) (Formally Framer Motion for fluid UI transitions)
 - **Date Management**: `date-fns` (Precise date formatting and logic)
 
-## 📁 Project Structure
-
-```text
-├── src/
-│   ├── App.tsx          # Main Dashboard logic and UI core
-│   ├── main.tsx         # Application entry point
-│   ├── types.ts         # Centralized TypeScript definitions
-│   ├── mockData.ts      # Initial dataset and category constants
-│   ├── index.css        # Global styles and Tailwind v4 configuration
-│   └── lib/
-│       └── utils.ts     # Formatting and style merging utilities
-├── public/              # Static assets
-└── vite.config.ts       # Optimized build configuration
-```
 
 ## 🚀 Getting Started
 
